@@ -20,10 +20,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](images/screenshot.jpeg)
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://github.com/LuanLessa/qr-code-component.github.io)
-- Live Site URL: [Add live site URL here](https://luanlessa.github.io/qr-code-component.github.io/)
+- Live Site URL: [qr-code-component.github.io](https://luanlessa.github.io/qr-code-component.github.io/)
 
 ## My process
 
@@ -62,7 +61,3 @@ Hope to continue learning responsive designs and new css and html techniques.
 
 - Website - [Luan Lessa](https://github.com/LuanLessa)
 - Frontend Mentor - [@LuanLessa](https://www.frontendmentor.io/profile/LuanLessa)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
