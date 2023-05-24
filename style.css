@@ -1,11 +1,14 @@
 body{
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+    padding: 1rem;
     background-color: hsl(220, 15%, 55%);
     font-family: "Outfit", sans-serif;
     font-weight: 700;
+
 }
-.content{
-    margin: auto;
-    margin-top: 7.5%;
+.main{
     padding: 1rem;
     max-width: 16rem;
     background-color: hsl(0, 0%, 100%);
@@ -21,7 +24,7 @@ body{
 .qrimage{
     display: block;
     margin: auto;
-    max-width: 16rem;
+    max-width: 100%;
     border-radius: 1rem;
 }
 .title{

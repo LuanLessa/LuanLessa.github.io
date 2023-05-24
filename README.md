@@ -13,6 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -56,8 +57,13 @@ Hope to continue learning responsive designs and new css and html techniques.
 
 - [W3 Schools](https://www.w3schools.com/) - This helped me with basic html and css semantics, it has a lot of resources.
 - [Stack Overflow](https://stackoverflow.com/) - This is an amazing website for QA.
+- [Modern CSS](https://moderncss.dev/complete-guide-to-centering-in-css/) - This is an amazing article which helped me finally understand how to center a div.
 
 ## Author
 
 - Website - [Luan Lessa](https://github.com/LuanLessa)
 - Frontend Mentor - [@LuanLessa](https://www.frontendmentor.io/profile/LuanLessa)
+
+## Acknowledgments
+
+I would like to thank Mr.[@AlexKMarshall](https://github.com/AlexKMarshall), who helped me, whith a lot of tips and tricks with this project.
