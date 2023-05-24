@@ -7,10 +7,9 @@ body{
     margin: auto;
     margin-top: 7.5%;
     padding: 1rem;
-    width: 18%;
+    max-width: 16rem;
     background-color: hsl(0, 0%, 100%);
     border-radius: 1rem;
-
     text-align: center;
 }
 .attribution{
@@ -19,17 +18,17 @@ body{
     font-size: 0.7rem;
 }
 
-#qrimage{
+.qrimage{
     display: block;
     margin: auto;
     width: 100%;
     border-radius: 1rem;
 }
-#title{
+.title{
     font-size: 1.3rem;
     color: hsl(218, 44%, 22%);
 }
-#text{
+.text{
     color: hsl(220, 15%, 55%);
     font-size: 0.9rem;
 }
